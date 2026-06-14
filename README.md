@@ -18,27 +18,15 @@
 </div>
 <br>
 
-## Proyectos Destacados
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> GitHub Stats
 
-### [🏖️ Kin Conecta](https://github.com/isa-capa/KinConecta)
-* **¿Qué es?** Una plataforma web colaborativa diseñada para promover el turismo local y conectar viajeros a lo largo de México.
-* **¿Por qué?** El reto principal fue construir un producto funcional desde cero en un entorno colaborativo, simulando la dinámica y los tiempos de un equipo de desarrollo profesional.
-* **¿Cómo?** Gestionado y desarrollado bajo la metodología **SCRUM**. Construido en el frontend utilizando **React** para la arquitectura de componentes y **Tailwind CSS** para asegurar un diseño adaptable y moderno.
-
-### [🛒 Carrito de Compras Interactivo](https://github.com/JuanAG1003/Carrito-de-Compras-E-commerce-)
-* **¿Qué es?** Una aplicación dinámica de comercio electrónico con actualización de productos, totales y carrito en tiempo real.
-* **¿Por qué?** Diseñado específicamente para dominar el manejo de estados globales complejos y evitar el "prop drilling", asegurando que la interfaz reaccione instantáneamente a las acciones del usuario.
-* **¿Cómo?** Desarrollado con **React**, implementando hooks avanzados y **Redux Toolkit** para mantener un control de estado centralizado, escalable y predecible.
-
-### [🎬 Buscador de Películas](https://github.com/JuanAG1003/Buscador-de-Pel-culas)
-* **¿Qué es?** Una interfaz rápida y fluida para explorar catálogos de películas y consultar detalles específicos.
-* **¿Por qué?** Nació con el objetivo de perfeccionar el consumo asíncrono de datos, controlando de forma elegante los estados de carga (loading) y el manejo de errores en la interfaz.
-* **¿Cómo?** Escrito con **JavaScript (ES6+)** y **React**, conectando la aplicación a una **API REST** externa, enfocado en mantener un código limpio y una separación clara de responsabilidades.
-
-### [🔴🟡 Conecta 4 Interactivo](https://github.com/JuanAG1003/Conecta-4---Juego-Interactivo)
-* **¿Qué es?** Una adaptación web del clásico juego de mesa donde dos jugadores compiten por alinear cuatro fichas consecutivas.
-* **¿Por qué?** Desarrollado como un reto técnico específico para poner en práctica y consolidar el dominio sobre hooks avanzados y la lógica de manejo de estados en aplicaciones altamente interactivas.
-* **¿Cómo?** Construido con **React** y **JavaScript (ES6+)**, implementando algoritmos matriciales para la validación de turnos y detección automática de victorias, asegurando una experiencia de usuario fluida y sin interrupciones.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanAG1003&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="JuanAG1003 Stats" />
+  <br><br>
+  <a href="https://github.com/JuanAG1003">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanAG1003&theme=dracula&hide_border=true" width="520" alt="JuanAG1003 Profile Details"/>
+  </a>
+</div>
 
 <br>
 
@@ -65,15 +53,32 @@
 
 <br>
 
-## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> GitHub Stats
+## Proyectos Destacados
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanAG1003&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="JuanAG1003 Stats" />
-  <br><br>
-  <a href="https://github.com/JuanAG1003">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanAG1003&theme=dracula&hide_border=true" width="520" alt="JuanAG1003 Profile Details"/>
-  </a>
-</div>
+### [🏖️ Kin Conecta](https://github.com/isa-capa/KinConecta)
+* **¿Qué es?** Una plataforma web colaborativa diseñada para promover el turismo local y conectar viajeros a lo largo de México.
+* **¿Por qué?** El reto principal fue construir un producto funcional desde cero en un entorno colaborativo, simulando la dinámica y los tiempos de un equipo de desarrollo profesional.
+* **¿Cómo?** Gestionado y desarrollado bajo la metodología **SCRUM**. Construido en el frontend utilizando **React** para la arquitectura de componentes y **Tailwind CSS** para asegurar un diseño adaptable y moderno.
+
+### [📝 Aplicación CRUD](https://github.com/JuanAG1003/Panel-de-Gestion-de-Usuarios-CRUD-)
+* **¿Qué es?** Un sistema funcional de gestión de datos que permite crear, leer, actualizar y eliminar registros de manera eficiente.
+* **¿Por qué?** Nació del reto de dominar la arquitectura de flujos de datos centralizados y el manejo de estados globales robustos, simulando el comportamiento de una plataforma a escala empresarial.
+* **¿Cómo?** Construido con **React**, integrando **Redux Toolkit** para gestionar un estado predecible y optimizado, estructurando la lógica a través de slices y selectores limpios.
+
+### [🛒 Carrito de Compras Interactivo](https://github.com/JuanAG1003/Carrito-de-Compras-E-commerce-)
+* **¿Qué es?** Una aplicación dinámica de comercio electrónico con actualización de productos, totales y gestión del carrito en tiempo real.
+* **¿Por qué?** Desarrollado para resolver el problema del *prop drilling* y controlar el flujo de datos en toda la aplicación de forma nativa, manteniendo el código ligero y sin librerías de terceros.
+* **¿Cómo?** Construido con **React**, implementando **Context API** para la provisión global de datos y **useReducer** para manejar la lógica compleja de las acciones del estado, logrando una arquitectura limpia y predecible.
+
+### [🎬 Buscador de Películas](https://github.com/JuanAG1003/Buscador-de-Pel-culas)
+* **¿Qué es?** Una interfaz rápida y fluida para explorar catálogos de películas y consultar detalles específicos.
+* **¿Por qué?** Nació con el objetivo de perfeccionar el consumo asíncrono de datos, controlando de forma elegante los estados de carga (loading) y el manejo de errores en la interfaz.
+* **¿Cómo?** Escrito con **JavaScript (ES6+)** y **React**, conectando la aplicación a una **API REST** externa, enfocado en mantener un código limpio y una separación clara de responsabilidades.
+
+### [🔴🟡 Conecta 4 Interactivo](https://github.com/JuanAG1003/Conecta-4---Juego-Interactivo)
+* **¿Qué es?** Una adaptación web del clásico juego de mesa donde dos jugadores compiten por alinear cuatro fichas consecutivas.
+* **¿Por qué?** Desarrollado como un reto técnico específico para poner en práctica y consolidar el dominio sobre hooks avanzados y la lógica de manejo de estados en aplicaciones altamente interactivas.
+* **¿Cómo?** Construido con **React** y **JavaScript (ES6+)**, implementando algoritmos matriciales para la validación de turnos y detección automática de victorias, asegurando una experiencia de usuario fluida y sin interrupciones.
 
 <br>
 
