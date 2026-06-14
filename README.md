@@ -22,41 +22,6 @@
 </div>
 <br>
 
-## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanAG1003&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="JuanAG1003 Stats" />
-  <br><br>
-  <a href="https://github.com/JuanAG1003">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanAG1003&theme=dracula&hide_border=true" width="520" alt="JuanAG1003 Profile Details"/>
-  </a>
-</div>
-
-<br>
-
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills
-
-<div align="center">
-  <kbd>
-    <b>Front-end</b><br><br>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <b>Herramientas</b><br><br>
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" />
-  </kbd>
-</div>
-
-<br>
-
 ## Proyectos Destacados
 
 ### [🏖️ Kin Conecta](https://github.com/isa-capa/KinConecta)
@@ -83,6 +48,41 @@
 * **¿Qué es?** Una adaptación web del clásico juego de mesa donde dos jugadores compiten por alinear cuatro fichas consecutivas.
 * **¿Por qué?** Desarrollado como un reto técnico específico para poner en práctica y consolidar el dominio sobre hooks avanzados y la lógica de manejo de estados en aplicaciones altamente interactivas.
 * **¿Cómo?** Construido con **React** y **JavaScript (ES6+)**, implementando algoritmos matriciales para la validación de turnos y detección automática de victorias, asegurando una experiencia de usuario fluida y sin interrupciones.
+
+<br>
+
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills
+
+<div align="center">
+  <kbd>
+    <b>Front-end</b><br><br>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <b>Herramientas</b><br><br>
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" />
+  </kbd>
+</div>
+
+<br>
+
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanAG1003&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="JuanAG1003 Stats" />
+  <br><br>
+  <a href="https://github.com/JuanAG1003">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanAG1003&theme=dracula&hide_border=true" width="520" alt="JuanAG1003 Profile Details"/>
+  </a>
+</div>
 
 <br>
 
