@@ -1,3 +1,7 @@
+<p>
+  <img src="bannerV2.webp" alt="Mi banner" width="100%">
+</p>
+
 <div align="center">
   <h1>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" alt="Hi">
